@@ -10,6 +10,7 @@ drf-yasg = "*"
 pillow = "*"
 psycopg2 = "*"
 djangorestframework-simplejwt = "*"
+dj-database-url = "*"
 
 [dev-packages]
 
